@@ -9,6 +9,8 @@ body {
 
  nav {
    background-color: rgb(255,202,170);
+   adding: 10px;
+   margin: 10px;
    
 }
 a {
