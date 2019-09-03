@@ -1,0 +1,26 @@
+* {
+    
+    font-family: 'Saira', sans-serif;
+}
+
+body {
+	background: #e6e6e6;
+}
+
+ nav {
+   background-color: rgb(255,202,170);
+   
+}
+a {
+  text-decoration: none;
+}
+a:visited  {
+  color: rgb(black);
+}
+h1, h3 {
+  color: rgb(128,61,21);
+}
+
+.header {
+  text-align: center;
+}
